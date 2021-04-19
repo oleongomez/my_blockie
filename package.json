@@ -1,0 +1,11 @@
+{
+  "name": "my_blockie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blockie.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
